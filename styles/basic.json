@@ -1,7 +1,8 @@
 {
-	"background": "sky.jpg",
+	"background": "background.png",
     "tiles": {
 		"GROUND" : { "texture": "grass.png" },
-		"TREE"   : { "texture": "tree.png", "groundTexture": "grass.png" }
+		"TREE"   : { "texture": "tree.png", "groundTexture": "grass.png" },
+		"CRATE"  : { "texture": "crate.png", "groundTexture": "dirt.png" }
 	}
 }
